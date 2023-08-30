@@ -1,0 +1,12 @@
+table {
+    margin: auto;
+    padding: 15px;
+    border-spacing: 10px;
+    border: solid 5px rgb(170, 11, 11);
+}
+
+td {
+    width: 200px;
+    height: 200px;
+    border: solid 2px rgb(31, 18, 143);
+}
